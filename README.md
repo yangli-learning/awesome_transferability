@@ -3,7 +3,7 @@ A list of recent research papers on the computation, analysis and application of
 (work in progress)
 
 ## Ananlytical transferability metrics
-Analytical metrics refer to methods that do not need to train the transer network (e.g. fine-tuning) on the target data.  We group the papers by whether they mainly focus on the single-source transfer setting or the multi-source transfer setting.  
+Analytical metrics refer to methods that do not need to train the transfer network (e.g. fine-tuning) on the target data.  We group the papers by whether they mainly focus on the single-source transfer setting or the multi-source transfer setting.  
 ### Single-source transferability
 
 - [Transferability and Hardness of Supervised Classification Tasks (2019)](https://arxiv.org/abs/1908.08142) (2019)
