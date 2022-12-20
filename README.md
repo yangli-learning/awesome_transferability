@@ -4,9 +4,8 @@ A list of recent research papers on the computation, analysis and application of
 
 ## Ananlytical transferability metrics
 ### Single-source transferability
-- Transferability and Hardness of Supervised Classification Tasks (2019)
--  An Information-Theoretic Approach
-to Transferability in Task Transfer Learning (2019)  
+- [Transferability and Hardness of Supervised Classification Tasks (2019)](https://arxiv.org/abs/1908.08142) (2019)
+-  [An Information-Theoretic Approach to Transferability in Task Transfer Learning] (https://ieeexplore.ieee.org/document/8803726) (2019)  
 -  LEEP: A New Measure to Evaluate Transferability of
 Learned Representations. (2020)
 -  OTCE: A Transferability Metric for Cross-Domain Cross-Task Representations. (2021)
