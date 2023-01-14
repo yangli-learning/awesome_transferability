@@ -27,3 +27,8 @@ Below we list empircal studies on transferability measurement or interpretation 
 ### computer vision
 - [How transferable are features in deep neural networks?](https://arxiv.org/abs/1411.1792) （2014）
 - [Taskonomy: Disentangling Task Transfer Learning](https://arxiv.org/abs/1804.08328) (2018)
+
+### medical image processing
+- [On the effective transfer learning strategy for medical image analysis in deep learning https://ieeexplore.ieee.org/document/9313593] (2020)
+- [Transfer learning for brain segmentation: Pre-task selection and data limitations](https://link.springer.com/chapter/10.1007/978-3-030-52791-4_10)(2020) 
+- [Finding the Most Transferable Tasks for Brain Image Segmentation](https://arxiv.org/abs/2301.00934) (2022)
