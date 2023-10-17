@@ -10,10 +10,12 @@ Analytical metrics refer to methods that do not need to train the transfer netwo
 -  [An Information-Theoretic Approach to Transferability in Task Transfer Learning](https://ieeexplore.ieee.org/document/8803726) (2019)  
 -  [LEEP: A New Measure to Evaluate Transferability of
 Learned Representations](https://arxiv.org/pdf/2002.12462) (2020)
+-  [Geometric Dataset Distances via Optimal Transport](https://arxiv.org/abs/2002.02923v1) (2020)
 -  [OTCE: A Transferability Metric for Cross-Domain Cross-Task Representations.](https://openaccess.thecvf.com/content/CVPR2021/papers/Tan_OTCE_A_Transferability_Metric_for_Cross-Domain_Cross-Task_Representations_CVPR_2021_paper.pdf) (2021)
 -  [Logme: Practical
 assessment of pre-trained models for transfer learning.](https://arxiv.org/abs/2102.11005v1)(2021)
--  [Geometric Dataset Distances via Optimal Transport](https://arxiv.org/abs/2002.02923v1) (2020)
+- [Transferability Estimation using Bhattacharyya Class Separability](https://arxiv.org/abs/2111.12780)(2021)
+- [Transferability Estimation Based On Principal Gradient Expectation](https://arxiv.org/abs/2211.16299)(2022)
 - [Wasserstein Task Embedding for Measuring Task Similarities](https://ui.adsabs.harvard.edu/abs/2022arXiv220811726L/abstract) (2022)
 - [Feasibility and Transferability of Transfer Learning: A Mathematical Framework](https://arxiv.org/abs/2301.11542) (2023)
 
